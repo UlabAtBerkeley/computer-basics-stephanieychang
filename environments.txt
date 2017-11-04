@@ -1,0 +1,7 @@
+# conda environments:
+#
+StephanieChangulab_36jupyter     C:\Users\Stephanie Chang\Anaconda3\envs\StephanieChangulab_36jupyter
+ulab_2.7                 C:\Users\Stephanie Chang\Anaconda3\envs\ulab_2.7
+ulab_3.6                 C:\Users\Stephanie Chang\Anaconda3\envs\ulab_3.6
+root                  *  C:\Users\Stephanie Chang\Anaconda3
+
